@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\учеба\lab5 C++\Source.cpp(64,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\учеба\lab5 C++\Source.cpp(131,25): warning C4018: <: несоответствие типов со знаком и без знака
+  registry.vcxproj -> C:\учеба\lab5 C++\Debug\registry.exe

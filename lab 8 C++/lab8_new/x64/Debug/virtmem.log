@@ -1,0 +1,16 @@
+﻿  Source.cpp
+C:\учеба\8laba C++\lab8_new\Source.cpp(33,53): warning C4311: приведение типов: усечение указателя из "BYTE *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(33,53): warning C4302: приведение типов: усечение из "BYTE *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(45,115): warning C4311: приведение типов: усечение указателя из "char *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(45,115): warning C4302: приведение типов: усечение из "char *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(51,157): warning C4311: приведение типов: усечение указателя из "int *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(51,157): warning C4302: приведение типов: усечение из "int *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(61,123): warning C4311: приведение типов: усечение указателя из "char *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(61,123): warning C4302: приведение типов: усечение из "char *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(69,145): warning C4311: приведение типов: усечение указателя из "int *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(69,145): warning C4302: приведение типов: усечение из "int *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(80,115): warning C4311: приведение типов: усечение указателя из "char *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(80,115): warning C4302: приведение типов: усечение из "char *" к "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(86,145): warning C4311: приведение типов: усечение указателя из "int *" в "int"
+C:\учеба\8laba C++\lab8_new\Source.cpp(86,145): warning C4302: приведение типов: усечение из "int *" к "int"
+  virtmem.vcxproj -> C:\учеба\8laba C++\lab8_new\x64\Debug\virtmem.exe

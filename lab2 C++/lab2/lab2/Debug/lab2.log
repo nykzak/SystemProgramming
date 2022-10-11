@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\nykza\Desktop\lab2 C++\lab2\lab2\Source.cpp(16,32): error C2440: =: невозможно преобразовать "const wchar_t [9]" в "LPCSTR"
+C:\Users\nykza\Desktop\lab2 C++\lab2\lab2\Source.cpp(16,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\nykza\Desktop\lab2 C++\lab2\lab2\Source.cpp(19,1): error C2664: "HWND CreateWindowExA(DWORD,LPCSTR,LPCSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const wchar_t [9]" в "LPCSTR"
+C:\Users\nykza\Desktop\lab2 C++\lab2\lab2\Source.cpp(19,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4420,1): message : см. объявление "CreateWindowExA"

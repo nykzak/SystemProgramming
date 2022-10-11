@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\nykza\Desktop\lab 2 C++ second project\second_project\second_project\Source.cpp(66,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\nykza\Desktop\lab 2 C++ second project\second_project\second_project\Source.cpp(74,9): warning C4101: hdc: неиспользованная локальная переменная
+  second_project.vcxproj -> C:\Users\nykza\Desktop\lab 2 C++ second project\second_project\x64\Debug\second_project.exe

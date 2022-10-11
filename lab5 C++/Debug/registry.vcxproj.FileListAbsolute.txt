@@ -1,0 +1,2 @@
+C:\Users\nykza\Desktop\registry\Debug\registry.exe
+C:\учеба\lab5 C++\Debug\registry.exe

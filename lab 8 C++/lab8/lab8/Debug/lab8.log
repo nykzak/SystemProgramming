@@ -1,0 +1,3 @@
+﻿  lab8.cpp
+C:\учеба\8laba C++\lab8\lab8\lab8.cpp(18,30): error C2440: инициализация: невозможно преобразовать "const char [13]" в "char *"
+C:\учеба\8laba C++\lab8\lab8\lab8.cpp(18,14): message : При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)

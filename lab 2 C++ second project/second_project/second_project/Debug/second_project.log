@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\nykza\Desktop\lab 2 C++ second project\second_project\second_project\Source.cpp(66,9): warning C4101: hdc: неиспользованная локальная переменная
+  second_project.vcxproj -> C:\Users\nykza\Desktop\lab 2 C++ second project\second_project\Debug\second_project.exe
